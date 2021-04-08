@@ -6,5 +6,6 @@
    (Если был выбран "обычный сайт", то потом можно поменять)
 4) После редактирования файла (package.json) жмем кнопку "Share",
    копируем URL из поля "Live Site" и вставляем в поле "Solution Link" на freecodecamp.org
-   URL: https://spotless-hollow-risk.glitch.me
+   URL: https://ash-melon-margin.glitch.me
+   Это надо делать после каждого изменения на glitch.
 5) Не забываем push измененных локальных файлов на github.com
