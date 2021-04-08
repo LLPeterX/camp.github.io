@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Peter Lebedev",
+	"author": "Peter Lebedev",
+	"description": "FreeCodeCamp lessons",
+        "keywords": ["freecodecamp", "npm", "starting"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
