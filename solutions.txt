@@ -8,4 +8,9 @@
    копируем URL из пол€ "Live Site" и вставл€ем в поле "Solution Link" на freecodecamp.org
    URL: https://spotless-hollow-risk.glitch.me
    Ёто надо делать после каждого изменени€ на glitch.
+   » дождатьс€ когда App Status станет OK.
 5) Ќе забываем push измененных локальных файлов на github.com
+
+¬ерсии NPM:
+ ~x.y.x - использовать последнюю версию (x - major) пакета
+ ^x.y.z - использовать последнюю версию minor (y) пакета
