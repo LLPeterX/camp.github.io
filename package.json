@@ -1,23 +1,28 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"version": "1.0.0",
-	"author": "Peter Lebedev",
-	"description": "FreeCodeCamp lessons",
-	"keywords": [
-		"freecodecamp",
-		"npm",
-		"starting"
-	],
-	"license": "FREE",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/LLPeterX/camp.github.io.git"
-	}
+  "name": "fcc-learn-node-with-express",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "fcc-express-bground": "git+https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLPeterX/camp.github.io.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Peter Lebedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLPeterX/camp.github.io/issues"
+  },
+  "homepage": "https://spotless-hollow-risk.glitch.me"
 }
